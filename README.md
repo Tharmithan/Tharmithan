@@ -28,7 +28,7 @@
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deneshkar&label=Profile%20views&color=0e75b6&style=flat" alt="Tharmithan" />
+  <img src="https://komarev.com/ghpvc/?username=Tharmithan&label=Profile%20views&color=0e75b6&style=flat" alt="Tharmithan" />
 </p>
 
 ---
