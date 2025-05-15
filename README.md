@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Deneshkar</h1>
+<h1 align="center">Hi <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px">, I'm Tharmithan</h1>
 <h3 align="center">A passionate Software Engineer from Sri Lanka</h3>
 
 <!-- Divider -->
@@ -28,7 +28,7 @@
 ```
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Deneshkar&label=Profile%20views&color=0e75b6&style=flat" alt="Deneshkar" />
+  <img src="https://komarev.com/ghpvc/?username=Deneshkar&label=Profile%20views&color=0e75b6&style=flat" alt="Tharmithan" />
 </p>
 
 ---
@@ -104,8 +104,8 @@
 <!-- Git State -->
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Deneshkar&theme=dark&show_icons=true&count_private=true" alt="Tharmithan"/></td>
-    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Deneshkar&theme=dark&hide_border=false" alt="Tharmithan" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=Tharmithan&theme=dark&show_icons=true&count_private=true" alt="Tharmithan"/></td>
+    <td><img src="https://nirzak-streak-stats.vercel.app/?user=Tharmithan&theme=dark&hide_border=false" alt="Tharmithan" /></td>
   </tr>
 </table>
 
